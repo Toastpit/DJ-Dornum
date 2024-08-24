@@ -8,13 +8,6 @@ It is a Discord music bot built using [discord-player](https://npm.im/discord-pl
 
 ![License](https://img.shields.io/github/license/LakhindarPal/discord-player-bot?link=LICENSE)
 
-![Contributors](https://img.shields.io/github/contributors/lakhindarpal/discord-player-bot?logo=github&link=https%3A%2F%2Fgithub.com%2FLakhindarPal%2Fdiscord-player-bot%2Fgraphs%2Fcontributors)
-![Stars](https://img.shields.io/github/stars/LakhindarPal/discord-player-bot?link=https%3A%2F%2Fgithub.com%2FLakhindarPal%2Fdiscord-player-bot%2Fstargazers)
-![Forks](https://img.shields.io/github/forks/LakhindarPal/discord-player-bot?link=https%3A%2F%2Fgithub.com%2FLakhindarPal%2Fdiscord-player-bot%2Fforks)
-![Docker Pulls](https://img.shields.io/docker/pulls/lakhindarpal/discord-player-bot?logo=docker&label=Pulls&link=https%3A%2F%2Fhub.docker.com%2Fr%2Flakhindarpal%2Fdiscord-player-bot)
-
-[![Support](https://img.shields.io/badge/Support-Discord-blue?style=for-the-badge&logo=discord)](https://discord.gg/8yaJBZBQTA)
-
 ## Table of Contents
 
 - [Disclaimer](#disclaimer)
@@ -59,24 +52,6 @@ This project is not affiliated with Discord or any streaming platforms. It is in
 ## License
 
 This project is licensed under the terms of the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
-
-## Help
-
-If you need further help with this project, to get support faster you can join the Discord server by just clicking [here](https://discord.gg/8yaJBZBQTA).
-
-## Feedback
-
-We value your feedback! If you have any suggestions, feature requests, or bug reports, please open an issue or reach out to us on Discord.
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=lakhindarpal/discord-player-bot&type=Date)](https://star-history.com/#lakhindarpal/discord-player-bot&Date)
-
-## Supporters
-
-[![Stargazers repo roster](https://reporoster.com/stars/lakhindarpal/discord-player-bot)](https://github.com/lakhindarpal/discord-player-bot/stargazers)
-
-[![Forkers repo roster](https://reporoster.com/forks/lakhindarpal/discord-player-bot)](https://github.com/lakhindarpal/discord-player-bot/network/members)
 
 ---
 
